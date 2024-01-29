@@ -1,0 +1,1 @@
+This is a small project, practicing html and css, creating a landing page for a website.
